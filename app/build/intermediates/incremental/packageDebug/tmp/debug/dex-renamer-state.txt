@@ -1,0 +1,4 @@
+#Sat Jun 13 01:33:25 CST 2020
+base.0=C\:\\Users\\gatit\\AndroidStudioProjects\\Inicio_de_sesion\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
